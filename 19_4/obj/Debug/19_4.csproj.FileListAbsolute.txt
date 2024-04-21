@@ -1,0 +1,7 @@
+D:\Kollege\Основы алгоритмизации\19_4\bin\Debug\19_4.exe.config
+D:\Kollege\Основы алгоритмизации\19_4\bin\Debug\19_4.exe
+D:\Kollege\Основы алгоритмизации\19_4\bin\Debug\19_4.pdb
+D:\Kollege\Основы алгоритмизации\19_4\obj\Debug\19_4.csproj.AssemblyReference.cache
+D:\Kollege\Основы алгоритмизации\19_4\obj\Debug\19_4.csproj.CoreCompileInputs.cache
+D:\Kollege\Основы алгоритмизации\19_4\obj\Debug\19_4.exe
+D:\Kollege\Основы алгоритмизации\19_4\obj\Debug\19_4.pdb
